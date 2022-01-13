@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bash/bin/
 sudo macchanger -r eth0
